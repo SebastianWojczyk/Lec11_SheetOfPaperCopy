@@ -1,0 +1,10 @@
+C:\Users\Student_PL\source\repos\SheetOfPaperCopy\SheetOfPaperCopy\bin\Debug\SheetOfPaperCopy.exe.config
+C:\Users\Student_PL\source\repos\SheetOfPaperCopy\SheetOfPaperCopy\bin\Debug\SheetOfPaperCopy.exe
+C:\Users\Student_PL\source\repos\SheetOfPaperCopy\SheetOfPaperCopy\bin\Debug\SheetOfPaperCopy.pdb
+C:\Users\Student_PL\source\repos\SheetOfPaperCopy\SheetOfPaperCopy\obj\Debug\SheetOfPaperCopy.Properties.Resources.resources
+C:\Users\Student_PL\source\repos\SheetOfPaperCopy\SheetOfPaperCopy\obj\Debug\SheetOfPaperCopy.UserControlSheetOfPaper.resources
+C:\Users\Student_PL\source\repos\SheetOfPaperCopy\SheetOfPaperCopy\obj\Debug\SheetOfPaperCopy.csproj.GenerateResource.cache
+C:\Users\Student_PL\source\repos\SheetOfPaperCopy\SheetOfPaperCopy\obj\Debug\SheetOfPaperCopy.csproj.CoreCompileInputs.cache
+C:\Users\Student_PL\source\repos\SheetOfPaperCopy\SheetOfPaperCopy\obj\Debug\SheetOfPaperCopy.exe
+C:\Users\Student_PL\source\repos\SheetOfPaperCopy\SheetOfPaperCopy\obj\Debug\SheetOfPaperCopy.pdb
+C:\Users\Student_PL\source\repos\SheetOfPaperCopy\SheetOfPaperCopy\obj\Debug\SheetOfPaperCopy.Form1.resources
